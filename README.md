@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayodeleisibor
 - 👀 I’m interested in C++, Python, Full Stack Web development, Django, Database SQL
 - 🌱 I’m open to Full Time Coding job, Remote
-- 💞️ I’m looking to collaborate on C++, Python, Full Stack Web development, SQL project
+- 💞️ I’m looking to collaborate on C++, Python, Full Stack Web development, Django, SQL project
 - 📫 How to reach me ayodeleisibor@gmail.com, +2348169500462
 
 <!---
